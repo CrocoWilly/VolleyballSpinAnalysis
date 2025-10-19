@@ -27,7 +27,7 @@ Video URL: https://reurl.cc/lYmebd
 ---
 
 ### ⚙️ System Design  
-<img src="./doc_image/System_overall_process.png" width="500">
+<img src="./doc_image/System_overall_process.png">
 
 ```text
 Input: Single-view match video  
@@ -46,7 +46,7 @@ Input: Single-view match video
 ---
 
 ### 🔬 Phi-OptiCoord Method  
-<img src="./doc_image/Phy-OptiCoord_method.png" width="500">
+<img src="./doc_image/Phy-OptiCoord_method.png">
 
 **1️⃣ Optical Flow Detection**  
 Use **Lucas–Kanade optical flow** to extract 5–30 key motion points on the volleyball surface.
