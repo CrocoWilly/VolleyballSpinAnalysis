@@ -7,7 +7,7 @@ The system introduces the **Phi-OptiCoord Method**, a coordinate-based optical-p
 Integrated the spin module into the existing **3D trajectory reconstruction and velocity analysis system** within 2 weeks, enabling combined analysis of **speed + spin + trajectory**.  
 
 Deployed in **live sports broadcasts** including:  
-🏐 *2024 Enterprise Volleyball League (2024企業排球聯賽)*  
+🏐 *2025/2026 Top Volleyball League (2025/2026企業排球聯賽)*  
 🏐 *2025 World Masters Games (2025世界壯年運動會)*
 
 > **This technology has been applied in:**  
@@ -94,8 +94,7 @@ The real-time system overlays the RPM value and color cue directly onto the broa
 
 ---
 
-### 📊 Results & Demo  
-*(Insert real-time demo screenshots or video links here)*  
+### 📊 Results
 
 | Metric | Value |  
 |---------|--------|  
@@ -103,7 +102,7 @@ The real-time system overlays the RPM value and color cue directly onto the broa
 | Average Accuracy | ~90 % |  
 | Output Frequency | Every 3 frames |  
 | Integration Time | < 2 weeks |  
-| Deployment | Enterprise League 2024 / W.M. Games 2025 |  
+| Deployment | TVL 2025/2026 / W.M. Games 2025 |  
 
 ---
 
